@@ -2,7 +2,7 @@
 	BootCamp Gostack - Desafio 9 - Database-relations
 </h3>
 <p align="center">
-  Nesse desafio foi desenvolvido uma API que cadastrar pedidos e produtos e é possível fazer a listagem delos mesmo no banco de dados, esse desafio envolveu relacionamentos no banco de dados e injeção de  dependências.
+  Nesse desafio foi desenvolvido uma API que cadastra pedidos e produtos e é possível fazer a listagem dos mesmo no banco de dados, esse desafio envolveu relacionamentos no banco de dados e injeção de dependências.
 </p>
 
 <p align="center">
